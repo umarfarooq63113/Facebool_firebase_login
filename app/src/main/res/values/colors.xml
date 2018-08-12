@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+
+
+    <color name="colorBlack">#000</color>
+    <color name="black">#000</color>
+
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#fff</color>
+    <color name="scrollbar">#1976D2</color>
+    <color name="back">#519ae2</color>
+    <color name="colorPrimaryText">#b9b8bf</color>
+
+    <!--  <color name="white">#ddaaddff</color>-->
+    <color name="white_greyish">#c2b6b6</color>
+    <color name="background_color">#0c877c</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="standard_background">#ffffff</color>
+</resources>

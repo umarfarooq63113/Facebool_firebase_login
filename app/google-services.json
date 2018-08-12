@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "970364260086",
+    "firebase_url": "https://fir-authetication-app.firebaseio.com",
+    "project_id": "fir-authetication-app",
+    "storage_bucket": "fir-authetication-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970364260086:android:df3588d10f84407e",
+        "android_client_info": {
+          "package_name": "com.example.umar.facebookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970364260086-upvasso147ls6n8uf31q9gpnnlkrjkvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umar.facebookapp",
+            "certificate_hash": "f844b9342deec1581e415550516d471d156b0137"
+          }
+        },
+        {
+          "client_id": "970364260086-vkc3qnhgp0lqaper27nh7rtfsid8scaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4aKKiLB-eiQ0wJBkMfB6fRMWhDYEMsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970364260086-vkc3qnhgp0lqaper27nh7rtfsid8scaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970364260086:android:7b903acb2ce8b118",
+        "android_client_info": {
+          "package_name": "com.example.umar.firebase_login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970364260086-0uqmt5auu6vrifg7lokmiqvgqalt3qho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umar.firebase_login_signup",
+            "certificate_hash": "f844b9342deec1581e415550516d471d156b0137"
+          }
+        },
+        {
+          "client_id": "970364260086-vkc3qnhgp0lqaper27nh7rtfsid8scaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4aKKiLB-eiQ0wJBkMfB6fRMWhDYEMsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970364260086-vkc3qnhgp0lqaper27nh7rtfsid8scaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
